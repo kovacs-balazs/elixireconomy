@@ -1,0 +1,13 @@
+# Material names are case sensitive!
+
+palm-log:
+  item:
+    name: Pálma
+    material: PAPER
+    custommodeldata: 5229
+  noteblock:
+    note: 5
+    instrument: pling
+    facing-notes: [ 6, 7 ]
+  break-speed: 10.2
+  allow-facing: true

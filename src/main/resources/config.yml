@@ -1,0 +1,4 @@
+spawn-world-name: world
+
+# X Y Z YAW(Kijárat) PITCH
+spawn-location: -16 64 193 180 0

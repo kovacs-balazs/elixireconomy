@@ -1,0 +1,11 @@
+name: ElixirEconomy
+version: '${project.version}'
+main: me.koba1.elixireconomy.Main
+api-version: 1.18
+authors: [ koba1 ]
+description: Magyar Oraxen
+depend:
+  - Multiverse-Core
+
+commands:
+  setballoon:

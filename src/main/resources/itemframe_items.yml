@@ -1,0 +1,6 @@
+# Material names are case sensitive!
+
+radio:
+  material: PAPER
+  custommodeldata: 3187
+  confirm-remove: false
